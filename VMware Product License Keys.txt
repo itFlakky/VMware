@@ -1,0 +1,145 @@
+1.VMware Workstation Pro Series:
+---------------------------------
+
+MC60H-DWHD5-H80U9-6V85M-8280D	
+4A4RR-813DK-M81A9-4U35H-06KND
+NZ4RR-FTK5H-H81C1-Q30QH-1V2LA	
+JU090-6039P-08409-8J0QH-2YR7F	
+4Y09U-AJK97-089Z0-A3054-83KLA	
+4C21U-2KK9Q-M8130-4V2QH-CF810	
+HY45K-8KK96-MJ8E0-0UCQ4-0UH72	
+JC0D8-F93E4-HJ9Q9-088N6-96A7F	
+NG0RK-2DK9L-HJDF8-1LAXP-1ARQ0	
+0U2J0-2E19P-HJEX1-132Q2-8AKK6
+
+2. VMware Fusion-13 License Keys
+---------------------------------
+
+4A4RR-813DK-M81A9-4U35H-06KND	
+NZ4RR-FTK5H-H81C1-Q30QH-1V2LA	
+4C21U-2KK9Q-M8130-4V2QH-CF810	
+MC60H-DWHD5-H80U9-6V85M-8280D	
+JU090-6039P-08409-8J0QH-2YR7F	
+4Y09U-AJK97-089Z0-A3054-83KLA
+
+
+3. VMware vCenter 7.0 Standard
+----------------------------------
+
+104HH-D4343-07879-MV08K-2D2H2
+410NA-DW28H-H74K1-ZK882-948L4
+406DK-FWHEH-075K8-XAC06-0JH08
+
+4. VMware vSphere ESXi 7.0 Enterprise Plus
+------------------------------------------
+
+JJ2WR-25L9P-H71A8-6J20P-C0K3F
+HN2X0-0DH5M-M78Q1-780HH-CN214
+JH09A-2YL84-M7EC8-FL0K2-3N2J2
+
+
+5. VMware vSphere 7 Enterprise Plus with Add-on for Kubernetes
+-----------------------------------------------------------
+
+J1608-4GJEQ-071L8-9VA0H-2MUK6
+M10DH-8YL47-474L1-DV3U0-8H054
+MM4MR-2G005-H7039-JVCAP-2RAL8
+
+6. NSX-T
+-----------------
+
+UC3RA-D3XD4-H817Z-UEMNG-WC0WF - NSX for vSphere - Enterprise
+4J6VQ-DTHEQ-58TX9-00AU6-3T952 - NSX for vSheild
+
+
+7. VMware vSphere 6 Ent
+---------------------------------
+
+4F2DG-44K11-VZP61-9L3N0-03K0E
+0A679-40081-GZ880-J2A74-82057
+
+8. NSX DataCenter EnterPrise Plus:
+---------------------------------------
+
+AC79A-DDG4K-48EWZ-DEZ7X-X6HFF
+
+9. NSX Data Center Distributed Threat Prevention:
+------------------------------------------------
+
+YA5TK-6WY85-M88GP-66MZC-MG8W0
+
+10. VMware vSphere 7 Enterprise Plus with Add-on for Kubernetes
+------------------------------------------------------------
+
+J1608-4GJEQ-071L8-9VA0H-2MUK6
+M10DH-8YL47-474L1-DV3U0-8H054
+MM4MR-2G005-H7039-JVCAP-2RAL8
+
+11. VMware VSAN 7.0 Enterprise Plus
+--------------------------------------
+
+HN0D8-AAJ1Q-07D00-6U924-CX224
+50008-221DH-M7E99-A9CKM-A1030
+HN0NH-62051-H75E9-P38RM-0H870
+
+12. VMware NSX Data Center Enterprise Plus VM based keys
+---------------------------------------------------------
+
+GC7N2-2NZDM-H88NY-GWQ7G-YF0E0
+AA1NK-2LG0L-48DQY-G5XNX-P6KVA
+CU3M2-8LZ47-485GZ-XQM7G-NY8G2
+
+13. VMware NSX Data Center Enterprise Plus CORE based keys
+----------------------------------------------------
+
+CA518-ALY17-4849Z-YYYET-YFRCD
+YF1JA-41Y9N-480MP-1GQ5G-MF8VD
+UZ308-FUF8H-0815P-NGYQZ-N6RUF
+
+14. VMware NSX Data Center Enterprise Plus CPU based keys
+--------------------------------------------------------
+
+AC79A-DDG4K-48EWZ-DEZ7X-X6HFF
+ZG3J2-FAY90-484RQ-M7MGG-WKHG8
+FU11R-4DW8Q-48DLZ-UYMEG-XKAXF
+
+15. VMware NSX Data Center Distributed Threat Prevention
+--------------------------------------------------
+
+YA5TK-6WY85-M88GP-66MZC-MG8W0
+YZ7HU-69W1K-089UY-1GWNZ-YYAVD
+FV3E0-2WF1N-488NP-XFXN9-ZU0R2
+
+16. VMWare Site Recovery Manager 8.4 Enterprise
+----------------------------------------------
+
+0U45K-D9295-489Y9-XR3QM-AQ8M2
+
+
+
+17. NSX Firewall with Advanced Threat Prevention:
+-----------------------------------------------
+
+NC69K-4L040-M81T0-W98ZK-AFA40
+
+18. NSX Data Center Distributed Threat Prevention:
+----------------------------------------------------
+
+FV3E0-2WF1N-488NP-XFXN9-ZU0R2
+
+19. NSX Advanced Threat Prevention:
+--------------------------------------
+
+HG40K-0Y1E0-M80D0-0J9ZM-8UH6
+
+20. vSphere 8 Enterprise Plus:
+----------------------------------
+
+HG00K-03H8K-48929-8K1NP-3LUJ4
+4F40H-4ML1K-M89U0-0C2N4-1AKL4
+
+21. vCenter 8 Standard :
+-------------------------------
+
+4F282-0MLD2-M8869-T89G0-CF240
+0F41K-0MJ4H-M88U1-0C3N0-0A214
